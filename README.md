@@ -1,1 +1,3 @@
-# anatomymethod
+# ANATOMYmethod
+
+Welcome, this is the repository for www.anatomymethod.com. ANATOMYmethod is an anatomy website based on Grant's Method of Anatomy 6th edition (1958). The latest edition published in 1989 has unfortunately fallen out of print however the 1958 edition has had its copyright lapse and is now in the public domain. Whilst the text on this website is based on Grant's original Method of Anatomy, we strongly encourage contributors to submit relevant updates. The overarching goal is to preserve the style and knowledge of Grants whilst keeping its content relevant with new anatomical discoveries. It is not meant to be an overaching anatomical reference but primarily a learning tool for those in medical and health sciences.
